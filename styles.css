@@ -1,0 +1,49 @@
+html {
+    font-family: Helvetica;
+    text-align: center;
+}
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("./images/pattern.webp");
+    padding: auto;
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+ul {
+    list-style: none; 
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+}
+li {
+    display: inline-block;
+    max-width: 30%;
+    text-align: center;
+}
+.brushes {
+    background-color: gray
+}
+#prices {
+    font-weight: bold;
+    color: blue;
+}
+.frames {
+    background-color: lightcoral;
+}
+.paint {
+    background-color: skyblue;
+}
+.store {
+    text-align: center;
+}
+footer {
+    font-size: 17px;
+    color: slategrey;
+}
